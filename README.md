@@ -68,5 +68,7 @@ Linux · Bash
 ## 04 — Dónde encontrarme
 
 [**Portfolio**](https://felipe-droguett.netlify.app/) — el trabajo, con evidencia y con sus límites declarados
+
 [**LinkedIn**](https://www.linkedin.com/in/fdroguetto/) — trayectoria y contexto profesional
+
 [**Credencial verificable**](https://www.acreditta.com/credential/8f73702b-0511-40f1-80b0-6224284c8eab) — Full Stack Python · Talento Digital para Chile
