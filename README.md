@@ -12,9 +12,9 @@ Buena parte de lo que escribo hoy vive en repositorios privados de clientes. Lo 
 
 ## 01 — Ahora
 
-`2026` · **Agente comercial conversacional** — arquitectura, evaluación sobre conversaciones reales y validación. Todavía no atiende clientes.
+`2026` · **Agente comercial conversacional** — el modelo entiende y redacta; precios, stock y derivaciones los decide código determinista. En septiembre no pasó su primera certificación, sobre 1.000 conversaciones selladas antes de correr, y está en reparación con la misma vara. Todavía no atiende clientes.
 
-`2026` · **Portfolio V3** — React, Vite, prerender de rutas en el build y QA de producción.
+`2026` · **Portfolio** — React, Vite, prerender de rutas en el build y QA de producción. Revisado en septiembre contra el estado real de cada proyecto.
 
 ---
 
@@ -23,13 +23,13 @@ Buena parte de lo que escribo hoy vive en repositorios privados de clientes. Lo 
 <table>
   <tr>
     <td width="44%" valign="top">
-      <a href="https://codigo-morse-online.netlify.app/"><img src="./assets/telegrafo.png" alt="La llave del Telégrafo con su medidor de duración y la cinta de papel mostrando SOS traducido desde las pulsaciones"></a>
+      <a href="https://codigo-morse-online.netlify.app/"><img src="./assets/codigo-morse.png" alt="Portada de Código Morse Online: una llave de telegrafía junto al titular «Aprende Morse, sin fricción» y los botones Empezar y Ver modo libre"></a>
     </td>
     <td valign="top">
-      <h3>El Telégrafo</h3>
-      <p>Estación de práctica de código Morse en el navegador. Se mantiene pulsada la barra espaciadora y el sistema mide cuánto dura cada pulsación para distinguir punto de raya; al soltar, traduce la letra y la escribe en la cinta. Tiene tono, velocidad en palabras por minuto y espaciado Farnsworth ajustables, como un equipo real.</p>
-      <p>Un solo archivo HTML: sin framework, sin dependencias y sin proceso de build.</p>
-      <p><code>JavaScript</code> · <code>Web Audio API</code> · <code>temporización CW</code></p>
+      <h3>Código Morse Online</h3>
+      <p>Para aprender Morse de oído en el navegador. Dos caminos y ninguna decisión previa: <b>Aprender</b> te pone a escuchar diez señales, respondes y avanzas, y sin avisar insiste en las letras que fallas; <b>Modo libre</b> es una mesa de telegrafía con la llave, un traductor y el abecedario.</p>
+      <p>El audio manda: temporización PARIS con espaciado Farnsworth según la ARRL, cada locución agendada sobre un solo oscilador, y el símbolo que suena iluminado leyendo el reloj del propio <code>AudioContext</code>, así que imagen y sonido no derivan. HTML, CSS y JavaScript con módulos nativos: sin framework, sin dependencias y sin build. 70 pruebas con <code>node --test</code>.</p>
+      <p><code>JavaScript</code> · <code>Web Audio API</code> · <code>Módulos ES</code> · <code>node:test</code></p>
       <p><a href="https://github.com/Spectre-x46/Codigo-Morse">Código</a> · <a href="https://codigo-morse-online.netlify.app/">Probarlo</a></p>
     </td>
   </tr>
@@ -72,3 +72,5 @@ Linux · Bash
 [**LinkedIn**](https://www.linkedin.com/in/fdroguetto/) — trayectoria y contexto profesional
 
 [**Credencial verificable**](https://www.acreditta.com/credential/8f73702b-0511-40f1-80b0-6224284c8eab) — Full Stack Python · Talento Digital para Chile
+
+[**Diploma**](https://github.com/Spectre-x46/Portafolio-FelipeDroguett/blob/main/public/assets/diploma-full-stack-python.pdf) — Desarrollo de Aplicaciones Full Stack Python Trainee · IT Academy by Kibernum · 462 horas
