@@ -12,9 +12,9 @@ Buena parte de lo que escribo hoy vive en repositorios privados de clientes. Lo 
 
 ## 01 — Ahora
 
-`2026` · **Agente comercial conversacional** — el modelo entiende y redacta; precios, stock y derivaciones los decide código determinista. En septiembre no pasó su primera certificación, sobre 1.000 conversaciones selladas antes de correr, y está en reparación con la misma vara. Todavía no atiende clientes.
+`2026` · **Asistente de ventas con IA** — responde consultas por chat con los precios y el stock reales del negocio, y pasa la conversación a una persona cuando no está seguro. En pruebas: todavía no atiende clientes.
 
-`2026` · **Portfolio** — React, Vite, prerender de rutas en el build y QA de producción. Revisado en septiembre contra el estado real de cada proyecto.
+`2026` · **Portfolio** — mis proyectos contados por sus resultados, con cifras fechadas. React, Vite y prerender de rutas.
 
 ---
 
@@ -28,7 +28,7 @@ Buena parte de lo que escribo hoy vive en repositorios privados de clientes. Lo 
     <td valign="top">
       <h3>Código Morse Online</h3>
       <p>Para aprender Morse de oído en el navegador. Dos caminos y ninguna decisión previa: <b>Aprender</b> te pone a escuchar diez señales, respondes y avanzas, y sin avisar insiste en las letras que fallas; <b>Modo libre</b> es una mesa de telegrafía con la llave, un traductor y el abecedario.</p>
-      <p>El audio manda: temporización PARIS con espaciado Farnsworth según la ARRL, cada locución agendada sobre un solo oscilador, y el símbolo que suena iluminado leyendo el reloj del propio <code>AudioContext</code>, así que imagen y sonido no derivan. HTML, CSS y JavaScript con módulos nativos: sin framework, sin dependencias y sin build. 70 pruebas con <code>node --test</code>.</p>
+      <p>Cada señal suena con el ritmo estándar con que se mide la velocidad en Morse, y el símbolo que suena se ilumina en sincronía exacta con el audio. HTML, CSS y JavaScript puros: sin framework, sin dependencias y con 70 pruebas automáticas.</p>
       <p><code>JavaScript</code> · <code>Web Audio API</code> · <code>Módulos ES</code> · <code>node:test</code></p>
       <p><a href="https://github.com/Spectre-x46/Codigo-Morse">Código</a> · <a href="https://codigo-morse-online.netlify.app/">Probarlo</a></p>
     </td>
